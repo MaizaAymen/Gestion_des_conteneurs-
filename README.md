@@ -49,10 +49,11 @@ docker run -d --name web nginx
 docker run -it python bash
 ![image](https://github.com/user-attachments/assets/a70cf061-96c1-4e75-a9c9-3c4a41295fcc)
 
+
 ```bash
 docker ps -a
 ```
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2d6ddad8-aeb9-4c0d-9f3b-418c25ff329b)
 ```bash
 docker inspect web
 ```
@@ -60,6 +61,6 @@ docker inspect web
 ```bash
 docker logs web
 ```
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4f2f0d22-f142-4b4a-b843-288b7596779d)
 
 
