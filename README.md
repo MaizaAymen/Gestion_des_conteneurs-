@@ -25,6 +25,7 @@ Lien : [https://hub.docker.com](https://hub.docker.com)
 
 ```bash
 docker pull alpine
+```
 ![image](https://github.com/user-attachments/assets/da818b87-038f-458e-912b-74b6ae7272d9)
 
 docker pull nginx
