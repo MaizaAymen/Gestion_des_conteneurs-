@@ -50,3 +50,13 @@ docker run -it python bash
 ![Uploading image.png…]()
 
 # exit
+```bash
+docker ps -a
+```
+![Uploading image.png…]()
+```bash
+docker inspect web
+```
+```bash
+docker logs web
+```
