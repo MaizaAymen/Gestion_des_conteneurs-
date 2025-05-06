@@ -49,7 +49,6 @@ docker run -d --name web nginx
 docker run -it python bash
 ![image](https://github.com/user-attachments/assets/a70cf061-96c1-4e75-a9c9-3c4a41295fcc)
 
-# exit
 ```bash
 docker ps -a
 ```
