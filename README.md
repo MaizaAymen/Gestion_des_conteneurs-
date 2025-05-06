@@ -27,20 +27,24 @@ Lien : [https://hub.docker.com](https://hub.docker.com)
 docker pull alpine
 ```
 ![image](https://github.com/user-attachments/assets/da818b87-038f-458e-912b-74b6ae7272d9)
-
+```bash
 docker pull nginx
+```
 ![image](https://github.com/user-attachments/assets/f1ae0054-7992-47e2-80fb-e184f56d318f)
-
+```bash
 docker pull python
+```
 ![image](https://github.com/user-attachments/assets/bf66189b-dfaa-4660-88eb-705daf54f84b)
+```bash
 docker run -it alpine sh
 # exit
+```
 ![image](https://github.com/user-attachments/assets/24ded74c-f75e-4f4f-8820-c5eeac648c79)
 
-
+```bash
 docker run -d --name web nginx
 ![image](https://github.com/user-attachments/assets/fc23d2f3-2da7-4d68-aaa7-075ff266171b)
-
+```
 docker run -it python bash
 ![Uploading image.png…]()
 
