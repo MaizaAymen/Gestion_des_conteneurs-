@@ -64,3 +64,4 @@ docker logs web
 ![image](https://github.com/user-attachments/assets/4f2f0d22-f142-4b4a-b843-288b7596779d)
 
 
+![image](https://github.com/user-attachments/assets/9254b262-27ce-43b9-b9f3-e914e5726e9a)
