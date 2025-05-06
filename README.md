@@ -57,6 +57,7 @@ docker ps -a
 ```bash
 docker inspect web
 ```
+![Uploading image.png…]()
 ```bash
 docker logs web
 ```
