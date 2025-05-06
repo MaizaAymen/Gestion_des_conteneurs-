@@ -61,3 +61,5 @@ docker inspect web
 ```bash
 docker logs web
 ```
+![Uploading image.png…]()
+
