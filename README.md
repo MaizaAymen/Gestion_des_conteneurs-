@@ -43,8 +43,9 @@ docker run -it alpine sh
 
 ```bash
 docker run -d --name web nginx
-![image](https://github.com/user-attachments/assets/fc23d2f3-2da7-4d68-aaa7-075ff266171b)
 ```
+![image](https://github.com/user-attachments/assets/fc23d2f3-2da7-4d68-aaa7-075ff266171b)
+
 docker run -it python bash
 ![Uploading image.png…]()
 
