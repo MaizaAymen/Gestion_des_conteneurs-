@@ -47,7 +47,7 @@ docker run -d --name web nginx
 ![image](https://github.com/user-attachments/assets/fc23d2f3-2da7-4d68-aaa7-075ff266171b)
 
 docker run -it python bash
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a70cf061-96c1-4e75-a9c9-3c4a41295fcc)
 
 # exit
 ```bash
@@ -62,4 +62,5 @@ docker inspect web
 docker logs web
 ```
 ![Uploading image.png…]()
+
 
